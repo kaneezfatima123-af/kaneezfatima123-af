@@ -22,7 +22,7 @@ I built this educational web app to handle course data and user flows. It has a 
 - **Links:** 
   - [🌐 Live Website](https://fatima-elearning.netlify.app/) *(Note: Please open this on a laptop/desktop for the best view)*
   - [🎥 Project Video Demo]( https://drive.google.com/file/d/1aifwcFa7zn0Lu5nxJe713dHeBPaqcQTm/view?usp=sharing) *(Watch this if you are reviewing on mobile)*
-  - [💻 GitHub Repository](https://github.com)
+  - [💻 GitHub Repository](https://github.com/kaneezfatima123-af/e-learning)
 
 ### 2️⃣ Path Pic (Database App)
 This project focuses on dynamic data management and handling image paths using cloud database services.
@@ -30,7 +30,7 @@ This project focuses on dynamic data management and handling image paths using c
 - **Links:** 
   - [🌐 Live Website]( https://path-pic.netlify.app/ ) *(Note: Please open this on a laptop/desktop for the best view)*
   - [🎥 Project Video Demo](https://drive.google.com/file/d/1JOIExX_ueLci5SfBuR73cVfVBNs95aMT/view?usp=sharing  ) *(Watch this if you are reviewing on mobile)*
-  - [💻 GitHub Repository](https://github.com)
+  - [💻 GitHub Repository](https://github.com/kaneezfatima123-af/e-learning)
 
 ### 3️⃣ Fatima's Salon (WordPress Website)
 A professional business website built for a salon, focusing on clean layout, services display, and branding.
