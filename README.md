@@ -30,7 +30,7 @@ This project focuses on dynamic data management and handling image paths using c
 - **Links:** 
   - [🌐 Live Website]( https://path-pic.netlify.app/ ) *(Note: Please open this on a laptop/desktop for the best view)*
   - [🎥 Project Video Demo](https://drive.google.com/file/d/1JOIExX_ueLci5SfBuR73cVfVBNs95aMT/view?usp=sharing  ) *(Watch this if you are reviewing on mobile)*
-  - [💻 GitHub Repository](https://github.com/kaneezfatima123-af/e-learning)
+  - [💻 GitHub Repository](https://github.com/kaneezfatima123-af/Path-Pic)
 
 ### 3️⃣ Fatima's Salon (WordPress Website)
 A professional business website built for a salon, focusing on clean layout, services display, and branding.
