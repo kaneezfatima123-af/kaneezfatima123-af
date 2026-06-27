@@ -16,7 +16,7 @@ I am currently looking for a Junior Web Developer role in a software house where
 
 ## 🚀 My Recent Projects
 
-### 1️⃣ E-Learning Platform (Full-Stack)
+### 1️ E-Learning Platform (Full-Stack)
 I built this educational web app to handle course data and user flows. It has a proper backend and database connection.
 - **Tech Used:** HTML, CSS, JavaScript, Node.js, MongoDB
 - **Links:** 
@@ -24,7 +24,7 @@ I built this educational web app to handle course data and user flows. It has a 
   - [🎥 Project Video Demo]( https://drive.google.com/file/d/1aifwcFa7zn0Lu5nxJe713dHeBPaqcQTm/view?usp=sharing) *(Watch this if you are reviewing on mobile)*
   - [💻 GitHub Repository](https://github.com/kaneezfatima123-af/e-learning)
 
-### 2️⃣ Path Pic (Database App)
+### 2️ Path Pic (Database App)
 This project focuses on dynamic data management and handling image paths using cloud database services.
 - **Tech Used:** HTML, CSS, JavaScript, Supabase Cloud DB
 - **Links:** 
@@ -32,23 +32,23 @@ This project focuses on dynamic data management and handling image paths using c
   - [🎥 Project Video Demo](https://drive.google.com/file/d/1JOIExX_ueLci5SfBuR73cVfVBNs95aMT/view?usp=sharing  ) *(Watch this if you are reviewing on mobile)*
   - [💻 GitHub Repository](https://github.com/kaneezfatima123-af/Path-Pic)
 
-### 3️⃣ Fatima's Salon (WordPress Website)
+### 3️ Fatima's Salon (WordPress Website)
 A professional business website built for a salon, focusing on clean layout, services display, and branding.
 - **Tech Used:** WordPress, Elementor
 - **Status:** The free hosting on InfinityFree expired, but I have recorded a full walkthrough video of how the site works.
 - **Links:** 
   - [🎥 ( https://drive.google.com/file/d/1JrEtOo7AaukJ3Ri9BS8RNH0dmDPOkp6H/view?usp=sharing )
  
-### 3️⃣ Real Estate Website (MERN Stack)
+### 4 Real Estate Website (MERN Stack)
 
 A full-stack real estate platform where users can browse, upload and manage properties with image uploads and user authentication.
 
 - Tech Used: React, Node.js, Express, MongoDB, 
   Cloudinary, JWT, Tailwind CSS
 - Links:
-  - Live Website: https://real-estate-websit.netlify.app/
-  - GitHub Repository: https://github.com/kaneezfatima123-af/real-estate-website
-
+   [🌐 Live Website](https://real-estate-websit.netlify.app/ ) *(Note: Please open this on a laptop/desktop for the best view)*
+  - [🎥 Project Video Demo](https://drive.google.com/file/d/1JOIExX_ueLci5SfBuR73cVfVBNs95aMT/view?usp=sharing  ) *(Watch this if you are reviewing on mobile)*
+  - [💻 GitHub Repository](https://github.com/kaneezfatima123-af/real-estate-website)
 ---
 
 ## 📬 Contact Me
