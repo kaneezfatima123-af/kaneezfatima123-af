@@ -7,7 +7,7 @@ I am currently looking for a Junior Web Developer role in a software house where
 ---
 
 ## 🛠️ Tech I Use
-- **Frontend:** HTML, CSS, JavaScript
+- **Frontend:** HTML, CSS, JavaScript ,React ,Tailwind CSS
 - **Backend & Database:** Node.js, Express, MongoDB, Supabase
 - **CMS:** WordPress
 - **Tools:** Git, GitHub, Netlify, Vercel
@@ -38,6 +38,16 @@ A professional business website built for a salon, focusing on clean layout, ser
 - **Status:** The free hosting on InfinityFree expired, but I have recorded a full walkthrough video of how the site works.
 - **Links:** 
   - [🎥 ( https://drive.google.com/file/d/1JrEtOo7AaukJ3Ri9BS8RNH0dmDPOkp6H/view?usp=sharing )
+ 
+  - ## 4 Real Estate Website (MERN Stack)
+
+A full-stack real estate platform where users can browse, upload and manage properties with image uploads and user authentication.
+
+- Tech Used: React, Node.js, Express, MongoDB, 
+  Cloudinary, JWT, Tailwind CSS
+- Links:
+  - Live Website: https://real-estate-websit.netlify.app/
+  - GitHub Repository: https://github.com/kaneezfatima123-af/real-estate-website
 
 ---
 
