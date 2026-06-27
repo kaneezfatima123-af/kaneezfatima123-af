@@ -47,7 +47,7 @@ A full-stack real estate platform where users can browse, upload and manage prop
   Cloudinary, JWT, Tailwind CSS
 - Links:
    [🌐 Live Website](https://real-estate-websit.netlify.app/ ) *(Note: Please open this on a laptop/desktop for the best view)*
-  - [🎥 Project Video Demo]( https://drive.google.com/file/d/1aifwcFa7zn0Lu5nxJe713dHeBPaqcQTm/view?usp=sharing  ) *(Watch this if you are reviewing on mobile)*
+  - [🎥 Project Video Demo]( https://drive.google.com/file/d/1w1ETJBYVyRpbMo3zmqIo046HCil0KhKX/view?usp=drive_link  ) *(Watch this if you are reviewing on mobile)*
   - [💻 GitHub Repository](https://github.com/kaneezfatima123-af/real-estate-website)
 ---
 
